@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of Power BI, Power Apps, and Power Automate projects
+Portfolio of Power BI and Power Automate projects
